@@ -1,4 +1,4 @@
-# Ecommerce Script Insertion
+# Generate data script
 
 ## Installation Node.js
 
